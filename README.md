@@ -1,10 +1,10 @@
-#Typescript sample app(Aurelia DI + Koa2)
+# Typescript sample app(Aurelia DI + Koa2)
 
-#Notes
+# Notes
 I start learning typescript few days ago, it's my solution how to integrate Aurelia Dependency Injection in typescript app.
 
 
-#Requirements
+# Requirements
 * nodemon,
 * node version 8.0.0
 
